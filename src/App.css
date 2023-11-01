@@ -518,7 +518,9 @@
 
 .uni-header-right {
   margin-right: 17.5%; 
-
+}
+.uni-header-right-2 {
+  margin-right: 17.5%; 
 }
 .uniPaychekButton {
   text-decoration: none;
@@ -781,5 +783,8 @@
 @media (max-width : 768px){
   .three-line{
     display:block;
+  }
+  .uni-header-right{
+    margin-right: 5%;
   }
 }

@@ -82,7 +82,7 @@
                 </div>
               </div>
             </div>
-            <div className='uni-header-right'>
+            <div className='uni-header-right-2'>
               <div className="uni-image-display">
                 <img src="https://www.uni.cards/images/nx-wave/nx_wave_hero.png" alt="Card Preview" className="card-image" />
               </div>
