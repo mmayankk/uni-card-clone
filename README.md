@@ -1,18 +1,18 @@
-Works with following resolutions
-Screen Support \n
+Works with following resolutions \
+Screen Support \
 1920×1080 \
-1366×768 \ 
- 1536×864 \ 
-1280×720 \ 
-1440×900 \ 
-1600×900 \ 
+1366×768 \
+ 1536×864 \
+1280×720 \
+1440×900 \
+1600×900 \
 \
-Mobile Support \ 
-1920×1080 \ 
-1366×768 \ 
-1440×900 \ 
-1536×864 \ 
-1280×720  \ 
+Mobile Support \
+1920×1080 \
+1366×768 \
+1440×900 \
+1536×864 \
+1280×720 \
 810×1080 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
