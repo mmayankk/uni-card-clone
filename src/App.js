@@ -31,6 +31,7 @@
             </div>
             <div className='uni-header-right'>
               <button class="uniPaychekButton" onclick="window.location.href='https://paychek.uni.club/'">Uni Paychek</button>
+              <svg class="three-line" width="31" height="20" viewBox="0 0 31 20" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="31" height="2" fill="white"></rect><rect width="31" height="2" fill="white"></rect><rect width="31" height="2" fill="white"></rect><rect y="9" width="31" height="2" fill="white"></rect><rect y="9" width="31" height="2" fill="white"></rect><rect y="9" width="31" height="2" fill="white"></rect><rect y="18" width="31" height="2" fill="white"></rect><rect y="18" width="31" height="2" fill="white"></rect><rect y="18" width="31" height="2" fill="white"></rect></svg>
             </div>
           </header>
           <div className="uni-header-2">
@@ -70,7 +71,7 @@
                             </div>
                         </form>
                         <div class="consent-section">
-                            <input type="checkbox" checked="" id="consent-msg"/>
+                            <input type="checkbox" checked="true" id="consent-msg"/>
                             <label for="consent-msg" class="consent-label">You agree to be contacted by Uni Cards over Call, SMS, Email or WhatsApp to guide you through your application.</label>
                         </div>
                     </div>

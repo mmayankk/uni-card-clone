@@ -773,3 +773,13 @@
     display: none;
   }
 }
+
+.three-line {
+  display:none
+}
+
+@media (max-width : 768px){
+  .three-line{
+    display:block;
+  }
+}
