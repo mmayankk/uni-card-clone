@@ -1,5 +1,5 @@
 Works with following resolutions
-Screen Support \ 
+Screen Support \n
 1920×1080 \
 1366×768 \ 
  1536×864 \ 
