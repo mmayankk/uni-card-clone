@@ -39,7 +39,7 @@
                 <div className="uni-intro">
                   <div class="main-container">
                     <h1 class="main-heading">
-                      <span>
+                      <span class ="main-span-heading">
                         <strong>NX Wave.</strong> The next-gen credit card for those who love rewards.
                       </span>
                     </h1>

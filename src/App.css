@@ -434,10 +434,11 @@
   position: relative; 
   padding-top: 3px;
   align-items: center;
+  margin-top:7%;   
 }
 @media (max-width: 768px) {
   .uni-header-2 {
-    
+    margin-top:0%;
     flex-direction: column-reverse;
   }
 }

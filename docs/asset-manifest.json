@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/uni-card-clone/static/css/main.88841809.css",
-    "main.js": "/uni-card-clone/static/js/main.f50c4949.js",
+    "main.css": "/uni-card-clone/static/css/main.164aae8a.css",
+    "main.js": "/uni-card-clone/static/js/main.cf3d8e95.js",
     "static/js/787.d06a32ce.chunk.js": "/uni-card-clone/static/js/787.d06a32ce.chunk.js",
     "static/media/Matter-Medium.woff": "/uni-card-clone/static/media/Matter-Medium.ab7a0b70d9126fac6bb9.woff",
     "static/media/Matter-Medium.woff2": "/uni-card-clone/static/media/Matter-Medium.edb6ebd9fc5a2bbff03f.woff2",
     "index.html": "/uni-card-clone/index.html",
-    "main.88841809.css.map": "/uni-card-clone/static/css/main.88841809.css.map",
-    "main.f50c4949.js.map": "/uni-card-clone/static/js/main.f50c4949.js.map",
+    "main.164aae8a.css.map": "/uni-card-clone/static/css/main.164aae8a.css.map",
+    "main.cf3d8e95.js.map": "/uni-card-clone/static/js/main.cf3d8e95.js.map",
     "787.d06a32ce.chunk.js.map": "/uni-card-clone/static/js/787.d06a32ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88841809.css",
-    "static/js/main.f50c4949.js"
+    "static/css/main.164aae8a.css",
+    "static/js/main.cf3d8e95.js"
   ]
 }
